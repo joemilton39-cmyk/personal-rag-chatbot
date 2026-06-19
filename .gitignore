@@ -1,0 +1,24 @@
+# API keys and secrets
+.env
+.streamlit/secrets.toml
+
+# Private PDFs and local data
+pdfs/
+personal_pdfs/
+sample_pdfs/*.pdf
+
+# Vector database
+chroma_db/
+*.sqlite3
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

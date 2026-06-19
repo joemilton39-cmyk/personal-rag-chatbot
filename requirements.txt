@@ -1,0 +1,11 @@
+This file tells future VS Code / Streamlit deployment what packages to install.
+
+
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+streamlit
+python-dotenv
